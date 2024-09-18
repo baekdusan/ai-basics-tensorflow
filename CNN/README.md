@@ -17,3 +17,4 @@
 - 18\. cats and dogs with transfer learning
 - 19\. plantvillage 데이터 셋 직접 레이어 쌓기 vs 전이 학습 정확도 비교
     - 해당 실습에서는 early stopping을 사용하여 과적합을 방지하였음.
+- 20\. cats and dogs with augmentation
